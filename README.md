@@ -34,6 +34,12 @@ Due to time constraints and the amount of time, it takes to add multiple functio
 ```
 Interesting fact: Spotify recently added time synced-lyrics features due the demand made by multiple users and not every song has lyrics on Spotify, let alone time-sycned lyrics.
 ```
+
+# Prerequisite 
+
+### 1) Node.js should be installed.
+
+
 # Steps to run the application
 
 ### 1) Create an App
