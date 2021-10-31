@@ -39,7 +39,7 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 ### 1) Create an App
 - Visit https://developer.spotify.com/ 
 - Log in and create an app
-- Enter http//localhost:8888/callback as the redirect uri
+- Enter `http//localhost:8888/callback` as the redirect uri
 - Save your changes
 - Copy down the following: Redirect uri, client id, client secret
 - Now navigate to Spotify-Lyrics/auth-server/authorization_code/app.js and paste the redirect uri, client id, client secret
