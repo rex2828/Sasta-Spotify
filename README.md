@@ -10,6 +10,7 @@ As per the internal surveys, and feedback of music lovers around the globe two p
 
 
 1. People listen to songs all the time, even while working. More than 50% of people need lyrics while listening to songs. But streaming platforms have lyrics only in-built, meaning users have to go into the app every time to see lyrics which can be frustrating.
+
 2. Even though people are listening to music online, there are still many users who need songs or some songs on their devices for offline uses. No streaming platform gives that option without taking extra money. 
 
 
