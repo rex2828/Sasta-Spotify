@@ -34,7 +34,7 @@ Due to time constratint and the amount of time it takes to add muliple functiona
 ```
 Interesting fact: Spotify recently added time synced-lyrics features due the demand made by multiple users and not every song has lyrics on Spotify, let alone time-sycned lyrics.
 ```
-#Steps to run the application
+# Steps to run the application
 
 ### 1) Create an App
 - Visit https://developer.spotify.com/ 
