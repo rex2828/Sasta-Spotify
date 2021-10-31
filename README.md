@@ -17,7 +17,7 @@ As per the internal surveys, and feedback of music lovers around the globe there
 *Our solution to this problem is a transparent application/widget which automatically shows time-synced lyrics of currently playing song, and gives options to download the song with two simple clicks.*    
 
 # Prototype
-                                  Our thoughts are stars , We cannot fathom into constellation
+                      Our thoughts are stars , We cannot fathom into constellation
 
 
 Due to time constratint and the amount of time it takes to add muliple functionality in an application of such magnitude we could only build a prototype which has the following features.  
