@@ -14,7 +14,7 @@ As per the internal surveys, and feedback of music lovers around the globe two p
 
 
 # Solution
-*Our solution to this problem is a transparent application/widget which automatically shows time-synced lyrics of the current playing song and gives options to download the song with two simple clicks.*    
+*Our solution to this problem is a transparent application/widget which automatically shows time-synced lyrics of the current playing song and gives option to download the song with two simple clicks.*    
 
 # Prototype
                       Our thoughts are stars , We cannot fathom into constellation
@@ -37,7 +37,7 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 
 # Prerequisite 
 
-- Node.js should be installed.
+- 1) Node.js should be installed.
 
 
 # Steps to run the application
