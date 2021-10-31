@@ -65,7 +65,7 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 - Your currently playing song's name and album art should appear
 - You can Download the song by 'Download Now'.
 
-# Bugs in the app
+# Bugs and their Solutions
 
 - Lyrics of all songs are not available due to usage of a free API in the developmental process 
 - Wrong songs can be downloaded because we are using youtube search to download the song.
@@ -82,7 +82,10 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 
 # Team Details
 
-### Team Name: The Pseudocodes
+### Team Name:
+
+The Pseudocodes
+
 ### Team Members:
 
 Akash Yadav
