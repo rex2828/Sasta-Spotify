@@ -75,6 +75,19 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 - Your currently playing song's name and album art should appear
 - You can Download the song by 'Download Now'.
 
+# Test Cases for You to use
+
+Playing these songs will give accurate results which we thought this application will give.
+
+You can use other songs than these also.
+
+1. Afterglow by Ed Sheeran
+2. Cheap Thrills by Sia 
+3. Favorite Crime by Olivia Rodrigo  
+4. Hello by Adele
+5. Speechless by Naomi Scott
+
+
 # Bugs & Their Solutions
 
 ### Bugs in the app
