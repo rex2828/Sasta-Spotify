@@ -37,7 +37,7 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 
 # Prerequisite 
 
-### 1) Node.js should be installed.
+- 1) Node.js should be installed.
 
 
 # Steps to run the application
