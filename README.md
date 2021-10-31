@@ -71,15 +71,32 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 - Your currently playing song's name and album art should appear
 - You can Download the song by 'Download Now'.
 
-### 5)   Bugs in the app
-- Since we are using the free API for lyrics , so lyrics for all songs are not available 
-- For download part we are downloading the first youtube search so sometimes that can be irregular. 
+# Bugs & Their Solutions
+
+### Bugs in the app
+
+- Lyrics of all songs are not available due to the usage of a free API.  
+- Downloading can result in wrong result because we used youtube search to download the song.  
 - User experience is not friendly since when using it for the first time he has to create developer account on spotify and make changes to the code.
 - Some exceptions are not handled properly.
 
-### 6) Possible solutions and future improvements
+### Possible solutions and future improvements
+
 - Instead of free API for lyrics we can use paid API where we get lyrics of more niche songs
-- For improving download accuracy , we can fetch first 10 results which is very easy and we can analyse those videos by duration and channel subscribers etc. So we can select appropriate video and download that.
-- For improving user experience Spotify enables to add 25 users and we can add more if we request them.So what it takes, is an email of a user's spotify account and add it to our client id which make user experience smooth.
+- For improving download accuracy, we can fetch the first 10 results which are very easy and we can analyze those videos by duration and channel subscribers, etc. So we can select an appropriate video and download that.
+- For improving user experience Spotify enables us to add 25 users and we can add more if we request them. So what it takes, is an email of a user's Spotify account and add it to our client id which makes the user experience smooth.
 
 
+# Team Details
+
+### Team Name
+
+The Pseudocodes
+
+### Team Members
+
+Akash Yadav
+
+Shreyas Kasliwal
+
+Sudeep Gangwar
