@@ -3,7 +3,7 @@ We are so exicted to share our idea and its working prototype with you guys. We 
 
 We, thank you for this wonderful opportunity you have given to us.
 
-# Sasta Spotify
+<h1 align="center">Sasta Spotify</h1>
 
 ![image](https://user-images.githubusercontent.com/81186992/139588242-c10979e8-08b8-45a0-8eae-91019c6a35fb.png)
 
