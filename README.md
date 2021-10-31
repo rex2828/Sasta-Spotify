@@ -64,4 +64,5 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 - Click 'Log in with Spotify' and log in
 - Click the 'Check Now Playing' Button
 - Your currently playing song's name and album art should appear
+- You can Download the song by 'Download Now'.
 
