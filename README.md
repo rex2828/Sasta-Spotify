@@ -1,5 +1,6 @@
 # HackOverflow 
 We are so excited to share our idea and its working prototype with you guys. We had immense pleasure while brainstorming ideas on this project.
+
 We, thank you for this wonderful opportunity you have given to us.
 
 <h1 align="center">Sasta Spotify</h1>
@@ -12,6 +13,7 @@ We, thank you for this wonderful opportunity you have given to us.
 We all listen to songs and thus, online song streaming platforms Spotify,  Amazon Music,  Apple Music, and other indigenous platforms have taken birth and have redefined the music industry. As per the internal surveys, and feedback of music lovers around the globe two problems are very commonly faced by users.
 
 1. People listen to songs all the time, even while working. More than 50% of people need lyrics while listening to songs. But streaming platforms have lyrics only in-built, meaning users have to go into the app every time to see lyrics which can be frustrating.
+
 2. Even though people are listening to music online, there are still many users who need songs or some songs on their devices for offline uses. No streaming platform gives that option without taking extra money.
 
 
@@ -22,7 +24,7 @@ We all listen to songs and thus, online song streaming platforms Spotify,  Amazo
 
                       Our thoughts are stars , We cannot fathom into constellation
 
-Due to time constratint and the amount of time it takes to add muliple functionality in an application of such magnitude we could only build a prototype which has the following features.  
+Due to time constraints and the amount of time, it takes to add multiple functionalities in an application of such magnitude we could only build a prototype that has the following features.
 
 ⚫ With our website, you can **log in to your spotify account**
 
@@ -91,7 +93,7 @@ You can use other songs than these also.
 
 - Lyrics of all songs are not available due to the usage of a free API.  
 - Downloading can result in wrong result because we used youtube search to download the song.  
-- User experience is not friendly since when using it for the first time he has to create developer account on spotify and make changes to the code.
+- User experience is not friendly since when using it for the first time user has to create developer account on spotify and make changes to the code.
 - Some exceptions are not handled properly.
 
 ### Possible solutions and future improvements
