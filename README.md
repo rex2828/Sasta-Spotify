@@ -41,6 +41,10 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 ```
 # Steps to run the application
 
+# Prerequisite
+- Node.js should be installed.
+- VS Code or some other code editor.
+
 ### 1) Create an App
 - Visit https://developer.spotify.com/ 
 - Log in and create an app
