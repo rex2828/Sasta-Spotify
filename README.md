@@ -42,6 +42,9 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 - Enter http//localhost:8888/callback as the redirect uri
 - Save your changes
 - Copy down the following: Redirect uri, client id, client secret
+- Now navigate to Spotify-Lyrics/auth-server/authorization_code/app.js and paste the redirect uri, client id, client secret
+- ![image](https://user-images.githubusercontent.com/81186992/139585961-475f6d9e-f5c9-4ab3-9e9c-49845558004e.png)
+
 
 ### 2)  Start Auth Server
 - Navigate to the auth-server directory `cd auth-server`
@@ -52,6 +55,7 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 ### 3)  Start Client
 - Navigate to the auth-server directory `cd client`
 - Install the dependencies `npm install`
+- Install axios dependencies `npm i axios`
 - Run the Server `npm start`
 
 ### 4)  Use the App
