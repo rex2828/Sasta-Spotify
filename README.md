@@ -67,6 +67,8 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 
 # Bugs and their Solutions
 
+### Bugs in the app
+
 - Lyrics of all songs are not available due to usage of a free API in the developmental process 
 - Wrong songs can be downloaded because we are using youtube search to download the song.
 - User experience is not friendly since when using it for the first time user has to create a developer account on Spotify and make changes to the code.
