@@ -72,7 +72,7 @@ Interesting fact: Spotify recently added time synced-lyrics features due the dem
 - User experience is not friendly since when using it for the first time he has to create developer account on spotify and make changes to the code.
 - Some exceptions are not handled properly.
 
-###6) Possible solutions and future improvements
+### 6) Possible solutions and future improvements
 - Instead of free API for lyrics we can use paid API where we get lyrics of more niche songs
 - For improving download accuracy , we can fetch first 10 results which is very easy and we can analyse those videos by duration and channel subscribers etc. So we can select appropriate video and download that.
 - For improving user experience Spotify enables to add 25 users and we can add more if we request them.So what it takes an email of a user's spotify account and add it to there client id, so what u have to do by creating your own developer account and changing the code , normal users won't have to that much, we just need their email and they are good to go.
